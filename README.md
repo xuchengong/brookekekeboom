@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brooke
-- 👀 I’m interested in multi-modal behavior analysis and representation learning
+- 👀 I’m interested in multimodal machine learning and behavior analysis
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
